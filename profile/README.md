@@ -1,4 +1,4 @@
-# Dario Dario
+![Dario Dario — Bespoke AI agents, managed by humans](https://dariodario.com/og.png)
 
 Bespoke AI agents, managed by humans. We design AI agents that increase output, reduce friction, and scale across your entire organization.
 
